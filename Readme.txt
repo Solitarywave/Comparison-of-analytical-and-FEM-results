@@ -1,6 +1,6 @@
 README
 
-Instructions
+Instructions (Fig.10)
 
 1. Run "Fig10_FEM.m".
 2. Wait until the computation is complete.
@@ -14,3 +14,7 @@ Instructions
 Input Parameters
 
 Any changes to the FEM input parameters can be made through the PDE Specification menu in PDETool.
+
+Instructions (Fig.16)
+1. Run "Fig16_analytical
+2. Run "Fig16_FEM.m".
